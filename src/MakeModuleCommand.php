@@ -12,6 +12,8 @@ class MakeModuleCommand extends Command
 
     public function handle()
     {
+
+        // Test comment
         $name = $this->argument('name');
         $path = base_path("modules/{$name}");
 
