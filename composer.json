@@ -1,0 +1,21 @@
+{
+    "name": "abrar/moduler",
+    "description": "Creates a complete CRUD module with model, controller, requests, resources, migration, and API routes.",
+    "type": "library",
+    "require": {
+        "illuminate/support": "^10.0",
+        "illuminate/console": "^10.0"
+    },
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Abrar\\Moduler\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "abrarapatel",
+            "email": "abrar44120@gmail.com"
+        }
+    ]
+}
