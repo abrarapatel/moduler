@@ -12,6 +12,13 @@
             "AbrarPatel\\Moduler\\": "src/"
         }
     },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "AbrarPatel\\Moduler\\ModuleMakerServiceProvider"
+            ]
+        }
+    },
     "authors": [
         {
             "name": "abrarpatel",
