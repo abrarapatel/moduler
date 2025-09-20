@@ -1,6 +1,6 @@
 <?php
 
-namespace Abrar\Moduler;
+namespace AbrarPatel\Moduler;
 
 use Illuminate\Support\ServiceProvider;
 
